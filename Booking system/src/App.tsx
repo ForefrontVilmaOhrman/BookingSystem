@@ -7,6 +7,7 @@ function App() {
         <button>Hello</button>
         <button>Hello</button>
         <button>Hello</button>
+        <button>Hej</button>
       </div>
     </>
   );
