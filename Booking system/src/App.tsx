@@ -5,6 +5,8 @@ function App() {
     <>
       <div>
         <button>Hello</button>
+        <button>Hello</button>
+        <button>Hello</button>
       </div>
     </>
   );
